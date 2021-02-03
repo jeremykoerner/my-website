@@ -1,0 +1,56 @@
+---
+title: "My Projects"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+##### Hello, this is still a work-in-progress, but thanks for checking out this page!  
+##### I hope you return for the finished product.
+
+<br>
+<br>
+
+## Java Projects
+
+
+***
+<br>
+<br>
+***Come Back Soon!***
+<br>
+<br>
+
+***
+
+<br>
+<br> 
+
+## Python Projects
+
+***
+<br>
+<br>
+***Come Back Soon!***
+<br>
+<br>
+
+***
+
+<br>
+<br> 
+
+## Unity Projects
+
+***
+<br>
+<br>
+***Come Back Soon!***
+<br>
+<br>
+
+***
+
+
+
