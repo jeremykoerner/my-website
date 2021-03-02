@@ -5,7 +5,7 @@ navbar:
     - text: "My Projects"
       href: my_projects.html
     - text: "Resume"
-      href: resources/koerner_resume.pdf
+      href: resources/Koerner_Resume.pdf
 output_dir: "."
 output:
   html_document:
